@@ -13,3 +13,5 @@ const Layout = (props: Props) => {
     </div>
   );
 };
+
+export default Layout;
